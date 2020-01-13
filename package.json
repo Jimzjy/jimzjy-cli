@@ -1,0 +1,27 @@
+{
+  "name": "jimzjy-cli",
+  "version": "1.0.0",
+  "description": "vue-cli imitatition",
+  "bin": {
+    "jimzjy": "bin/index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.0",
+    "consolidate": "^0.15.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.1",
+    "inquirer": "^7.0.3",
+    "metalsmith": "^2.3.0",
+    "minimatch": "^3.0.4",
+    "ora": "^4.0.3",
+    "semver": "^7.1.1"
+  },
+  "engines": {
+    "node": ">=8.9"
+  }
+}
